@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pritam Golder graduated from Daffodil International University in CSE.
+- 👋 Hi, I’m Pritam Golder, graduated from Daffodil International University in CSE.
 - 👀 I’m interested in Web Development in Django Framework.
 - 🌱 I’m currently learning Rest API.
 - 💞️ I’m looking to collaborate on web project.
