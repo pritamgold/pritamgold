@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **web base AI project**
 
-- 👨‍💻 All of my projects are available at [https://pritamgolder-portfolio.vercel.app/](https://pritamgolder-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://pritamgolder.vercel.app/](https://pritamgolder.vercel.app/)
 
 - 📫 How to reach me **pritamgolder06@gmail.com**
 
